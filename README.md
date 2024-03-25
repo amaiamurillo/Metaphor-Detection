@@ -1,1 +1,2 @@
-# metaphor-detection
+# Metaphor Detection
+This project aims to develop...
