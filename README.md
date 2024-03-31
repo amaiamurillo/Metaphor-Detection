@@ -1,2 +1,2 @@
-# Metaphor Detection
-This project aims to develop...
+# Metaphor Detector for Spanish
+The effective automated detection of conceptual metaphors poses a significant challenge in NLP tasks due to their subjectivity and abstract nature. This project explores the possibility of detecting them at token labeling level in a binary manner, where a word acts metaphorically compared to its usual meaning. To achieve this, a multilingual language model has been trained in Spanish using the CoMeta dataset, aiming to enhance results through fine-tuning procedures. To evaluate the final performance of the model, a custom dataset consisting of 50 examples has been created. Our experiments show promising results, highlighting the potential of multilingual models in detecting linguistic metaphors across diverse contexts.
